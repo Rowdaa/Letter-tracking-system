@@ -16,7 +16,7 @@ The Letter Tracking System is a robust web application built with Laravel and PH
 - PHP
 - MySQL
 - HTML
-- CSS
+- Tailwind CSS
 - JavaScript
 
 ## Getting Started
