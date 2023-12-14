@@ -23,9 +23,9 @@ The Letter Tracking System is a robust web application built with Laravel and PH
 
 ### Prerequisites
 
-- PHP (version X.X.X)
-- MySQL (version X.X.X)
-- Composer (version X.X.X)
+- PHP 
+- MySQL 
+- Composer 
 
 ### Installation
 
